@@ -1,7 +1,7 @@
 NAME = fragTrap
 
 SRC_FOLDER = src
-OBJ_FOLDER = obj
+OBJ_FOLDER = out
 INCLUDES = includes
 
 SRC_FILES = ClapTrap.cpp \
